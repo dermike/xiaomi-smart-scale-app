@@ -1,0 +1,26 @@
+{
+  "name": "xiaomi-smart-scale-app",
+  "version": "0.1.0",
+  "description": "Node.js and Electron app to display and log weight measured from Xiaomi Mi Smart Scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dermike/xiaomi-smart-scale-app.git"
+  },
+  "keywords": [
+    "xiaomi",
+    "scale"
+  ],
+  "author": "Mikael Jergefelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dermike/xiaomi-smart-scale-app/issues"
+  },
+  "homepage": "https://github.com/dermike/xiaomi-smart-scale-app#readme",
+  "dependencies": {
+    "noble": "^1.3.0"
+  }
+}
