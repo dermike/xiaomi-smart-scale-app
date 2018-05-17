@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/dermike/xiaomi-smart-scale-app#readme",
   "dependencies": {
-    "noble": "^1.3.0"
+    "noble": "^1.9.1"
   }
 }
